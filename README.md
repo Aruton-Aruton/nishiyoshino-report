@@ -4,9 +4,9 @@ https://nishiyoshino-report.com/
 
 ## 使用技術
 -HTML
--CSS(Sass)
--JavaScript
--PHP
+<br>-CSS(Sass)
+<br>-JavaScript
+<br>-PHP
 
 ## 開発理由
 以前アルバイトでお世話になった職場に、何か恩返しはできないかと考え、思い出サイトとして自分の活動記録とともに、感謝の想いを伝えるため、制作に至った。
