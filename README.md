@@ -2,7 +2,7 @@
 https://nishiyoshino-report.com/
 
 ## 使用技術
-figmaでのデザイン
+-figmaでのデザイン
 <br>-HTML
 <br>-CSS(Sass)
 <br>-JavaScript
